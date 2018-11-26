@@ -8,6 +8,6 @@
 
 **Lecture slides**: part of the lecture slides copied from [here](https://github.com/enggen/Advanced-Deep-Learning-and-Reinforcement-Learning).
 
-**Questions**: course assignments; empty Jupyter notebook files; copied from [ADL_RL](https://github.com/YidingYu/ADL_RL).
+**Lecture Assignments**: course assignments; empty Jupyter notebook files; copied from [ADL_RL](https://github.com/YidingYu/ADL_RL).
 
 
